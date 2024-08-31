@@ -2,8 +2,8 @@
 A DIY kit, purchase at CCHS with laser-cutting and 3D print already done, or optionally for a mark-down, perform laser-cutter and 3D-printer work yourself!
 
 # Description of the thing
-A prototype for another thing. And example of aesthetics that emerge from the tools one has at hand. A black 3d-printed paraboloid-ish shape sandwiched between two 2 mm thick clear acrylic laser-cut sheets, which in turn are pulled together by three sets of bolts that pull into/suspend a plastic 3mm PCB hex-spacer.
-[<img alt="read text for description" width="500px" src="https://github.com/CCHS-Melbourne/Fidgit_Timer/blob/main/overview_image.png" />]
+A prototype for another thing. An example of aesthetics that emerge from the tools one has at hand. ~2000x 1mm diameter ball bearings contained in a black 3d-printed paraboloid-ish shape sandwiched between two 2 mm thick clear acrylic laser-cut sheets, which in turn are pulled together by three sets of bolts that pull into/suspend a plastic 3mm PCB hex-spacer.
+[<img alt="read text for description" width="500px" src="https://github.com/CCHS-Melbourne/Fidgit_Timer/blob/main/images/overview_image.jpg" />]
 
 # Assembly of kit with all parts present
 1) Put three bolts through one plate and screw one PCB space onto each bolt, about halfway. Make a note of the side the etched circle is on.
